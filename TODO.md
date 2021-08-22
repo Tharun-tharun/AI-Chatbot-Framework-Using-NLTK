@@ -1,0 +1,45 @@
+# To do
+- [x] Remember information specific to each user session
+- [x] Matched group by group index support
+- [x] Recursion support
+- [x] Condition support (if, elif, else)
+- [x] Nested Topic based conversation support
+- [x] Interact with python function (callback)
+- [x] REST API integration (in template without a need for coding)
+- [x] On Fly learn
+- [x] WRT Previous message match support
+- [ ] WRT N previous message match support (with bot or user specification)
+- [x] Callback registration 
+- [x] Named group support 
+- [x] Multiple chat message Regex per intend block support 
+- [x] Multiple previous message Ragex per intend block support 
+- [x] Language switch support (localization)
+- [ ] Desktop UI
+- [x] [Web UI](https://github.com/ahmadfaizalbh/WebBot)
+- [ ] Rich Text Respose Support in template
+- [ ] Response Card Support in templates
+- [ ] Support Image and Vidio in response 
+- [ ] Mapping table (normal and reflections) language specific (localization)
+  - [x] English
+  - [x] Portuguese (Brazil)
+  - [ ] French
+  - [x] German
+  - [ ] Chinese
+  - [ ] Japnese
+  - [ ] Hindi
+  - [ ] Arabic
+  - [ ] others
+- [ ] Base (default) template language specific (localization)
+  - [x] English
+  - [x] Portuguese (Brazil)
+  - [ ] French
+  - [x] German
+  - [ ] Chinese
+  - [ ] Japnese
+  - [ ] Hindi
+  - [ ] Arabic
+  - [ ] others
+- [ ] Unit Tests
+- [ ] Voice cammand support
+- [ ] Code Embedded Templates (macros) support 
+- [ ] Non python callback function registration support (integration of java, c#, nodejs, Ruby, C/C++, etc.)
